@@ -1,0 +1,16 @@
+{
+    "name": "asyrafkindil/library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Asyrafkindil\\Library\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "asyrafkindil",
+            "email": "asyrafkindil@gmail.com"
+        }
+    ],
+    "require": {}
+}
