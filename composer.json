@@ -12,5 +12,7 @@
             "email": "asyrafkindil@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "tecnickcom/tcpdf": "^6.6"
+    }
 }
